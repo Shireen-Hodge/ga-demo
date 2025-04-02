@@ -35,3 +35,4 @@ jobs:
         with:
           resourceGroupName: "WebAppGroup" #change to reflect your Resource Group
           template: azure-resources.bicep
+
